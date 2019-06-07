@@ -15,7 +15,7 @@ const ap = new APlayer({
         {
             name: 'name2',
             artist: 'artist2',
-            url: 'url2.mp3',
+            url: 'http://www.ytmp3.cn/down/59015.mp3',
             cover: 'cover2.jpg',
             lrc: 'lrc2.lrc',
             theme: '#46718b'
